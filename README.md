@@ -2,7 +2,7 @@
 
 Este projeto consiste em um sistema de Controle de Acesso que integra um software desktop desenvolvido em Java e um microcontrolador Arduino programado em C++. O sistema permite gerenciar o acesso de pessoas por meio de um cadastro que inclui nome, CPF e uma senha numérica de 6 dígitos. O sistema conta com persistência de dados utilizando o MySQL como banco de dados para a aplicação.
 
-O projeto foi desenvolvido para a disciplina de Programação Orientada a Objetos e apresentado durante a VI Feira do Conhecimento da FATEC Guarulhos.
+> Projeto desenvolvido para a disciplina de Programação Orientada a Objetos e apresentado durante a VI Feira do Conhecimento da FATEC Guarulhos.
 
 <h2 align="center">✔️ Funcionalidades</h1>
 
