@@ -28,16 +28,16 @@ Este projeto consiste em um sistema de Controle de Acesso que integra um softwar
 <img src="https://github.com/gabriellabueno/controle-de-acesso/blob/main/imagens/controle.png" alt="Tela de Controle">  
 
 
-### Estrutura Física - Arduino
+### Estrutura Física
      
-[![Circuito no Tinkercad](https://img.shields.io/badge/Circuito%20no%20Tinkercad-orange?style=plastic&)](https://www.tinkercad.com/things/0K7h18Z1G8F-controle-de-acesso)  
+[![Circuito no Tinkercad](https://img.shields.io/badge/Circuito%20no%20Tinkercad-orange?style=for-the-badge&)](https://www.tinkercad.com/things/0K7h18Z1G8F-controle-de-acesso)  
 
 <img src="https://github.com/gabriellabueno/controle-de-acesso/blob/main/imagens/circuito-tinkercad.png" width="500px" alt="Circuito no Tinkercad">  
 
 <img src="https://github.com/gabriellabueno/controle-de-acesso/blob/main/imagens/circuito-fisico.jpeg" width="300px" alt="Circuito Físico">  
 </div>
 
-## :hammer_and_wrench: Tecnologias e Componentes
+<h2 align="center"> :hammer_and_wrench: Tecnologias e Componentes </h2>
 
 - **Sofwtare Desktop**
   - **Java:** Desenvolvimento do software desktop.
