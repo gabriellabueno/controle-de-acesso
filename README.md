@@ -1,3 +1,6 @@
+[![English Translation](https://img.shields.io/badge/English%20Translation-2d314a?style=for-the-badge)](https://github.com/gabriellabueno/controle-de-acesso/blob/main/README-translation.md) 
+
+
 <h1 align="center"> :closed_lock_with_key: Controle de Acesso </h1>
 
 Este projeto consiste em um sistema de Controle de Acesso que integra um software desktop desenvolvido em Java e um microcontrolador Arduino programado em C++. O sistema permite gerenciar o acesso de pessoas por meio de um cadastro que inclui nome, CPF e uma senha numérica de 6 dígitos. O sistema conta com persistência de dados utilizando o MySQL como banco de dados para a aplicação.
@@ -40,7 +43,7 @@ Este projeto consiste em um sistema de Controle de Acesso que integra um softwar
 <h2 align="center"> :hammer_and_wrench: Tecnologias e Componentes </h2>
 
 - **Sofwtare Desktop**
-  - **Java:** Desenvolvimento do software desktop.
+  - **Java:**Linguagem de Programação.
   - **Swing:** Interface gráfica do usuário..
 - **Banco de Dados**
   - **XAMPP:** Sistema de Gerenciamento de Banco de Dados (SGBD) do projeto.
