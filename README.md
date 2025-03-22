@@ -43,7 +43,7 @@ Este projeto consiste em um sistema de Controle de Acesso que integra um softwar
 <h2 align="center"> :hammer_and_wrench: Tecnologias e Componentes </h2>
 
 - **Sofwtare Desktop**
-  - **Java:**Linguagem de Programação.
+  - **Java:** Linguagem de Programação.
   - **Swing:** Interface gráfica do usuário..
 - **Banco de Dados**
   - **XAMPP:** Sistema de Gerenciamento de Banco de Dados (SGBD) do projeto.
